@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29273523/README.md)
 # 3D Model Reconstruction Evaluation with Chamfer Distance
 
 Author: Zitong Li
