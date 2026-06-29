@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29453482/README.md)
 # 3D Model Reconstruction Evaluation Methods
 
 Author: Zitong Li
